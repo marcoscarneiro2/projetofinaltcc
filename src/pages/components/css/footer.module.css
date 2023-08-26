@@ -1,0 +1,9 @@
+.cor_rodape{
+    background: #0E4097;
+}
+
+.cor_rodape_fundo{
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    padding: 1%;
+}

@@ -1,0 +1,36 @@
+.menu_pesquisa{
+    background: #0E4097;
+    padding: 1%;
+    color:white;
+}
+
+.botao_amarelo{
+    background: #FFC039;
+    color: #333;
+    
+    /* Espaçamento interno e externo */
+    padding: 5px 20px;
+       
+    /* Borda e raio de borda */
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    
+    /* Outros estilos de texto */
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    
+    /* Efeitos de hover */
+    transition: background-color 0.3s ease;
+}
+
+  .botao_amarelo:hover {
+    background-color: #DDD;
+  }
+
+  .botao_alinhado {
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+  }
+  
