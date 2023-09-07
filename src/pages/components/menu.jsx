@@ -10,7 +10,7 @@ const Navbar = () => {
                 <div className="container">
                     {/* Div da logo e menus */}
                     <div className="navbar-brand">
-                        <img src="../../assets/img/logo.png" alt="Logo" />
+                        <img className={`${menu.logo}`} src="https://i.ibb.co/89b429w/logo.png" alt="Logo" />
                     </div>
                     <button
                         className="navbar-toggler"
